@@ -1,0 +1,26 @@
+HOMEWORK 1
+
+
+
+var a = 15;
+var b = 10;
+var c = "15";
+var d = false;
+var e = null;
+var f;
+var arr = [];
+
+
+1.	(!(b>10) || b !== (a%2))      True
+2.	((!(a == c) || a !== c) && f)   undefined
+3.	(d == false && b-7 > a && (f == undefined)) False
+4.	!(a && !b && !c)   True
+5.	(!a || !d == true || arr.length)     True
+6.	(a >= (b-5) && 0 == arr)         True    
+7.	!(arr || false)             False
+8.	!((!arr.length) && true)    False
+9.	(a === "15") || arr || (b > 10)                           
+[]
+1.	length: 0
+
+10.	a && b && c && "false"              False
